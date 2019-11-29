@@ -1,5 +1,5 @@
 # subJi
-Sensibull Assignment
+
 To run the APP-
 first run the subji.sql file in MySQL shell.
 then just start the two servers -
